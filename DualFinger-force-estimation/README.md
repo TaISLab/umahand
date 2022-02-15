@@ -2,7 +2,7 @@
 
 Gripper with Underactuated fingers with propioceptive passive joints sensing for force estimation.
 
-![Two finger version](https://github.com/TaISLab/umahand/blob/master/DualFinger-force-estimation/Three-Finger%20with%20Dummy.jpg)
+![Two finger version](https://github.com/TaISLab/umahand/blob/master/DualFinger-force-estimation/twofinger.jpg)
 
 ![Three finger version](https://github.com/TaISLab/umahand/blob/master/DualFinger-force-estimation/Three-Finger%20with%20Dummy.jpg)
 
