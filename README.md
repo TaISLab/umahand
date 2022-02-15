@@ -10,8 +10,6 @@ F. Pastor et al., "Bayesian and Neural Inference on LSTM-Based Object Recognitio
 
 F. J. Ruiz-Ruiz, J. M. Gandarias, F. Pastor and J. M. Gómez-De-Gabriel, "Upper-Limb Kinematic Parameter Estimation and Localization Using a Compliant Robotic Manipulator," in IEEE Access, vol. 9, pp. 48313-48324, 2021, doi: 10.1109/ACCESS.2021.3067108.
 
-J. M. Gómez-de-Gabriel and H. A. Wurdemann, "Adaptive Underactuated Finger With Active Rolling Surface," in IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 8253-8260, Oct. 2021, doi: 10.1109/LRA.2021.3105729
-
 ## Contributors
 [UMA- CEIIATECH-23, OTRI de la Universidad de Málaga](https://www.uma.es/otri) at Málaga University, Spain
 
