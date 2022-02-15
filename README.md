@@ -19,6 +19,6 @@ J. M. Gómez-de-Gabriel and H. A. Wurdemann, "Adaptive Underactuated Finger With
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 - see the [LICENSE.md](https://github.com/TaISLab/WalKit/blob/master/LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 - see the [LICENSE.md](https://github.com/TaISLab/umahand/blob/master/LICENSE.md) file for details.
 
 Design of the adaptive hand for pHRI applications
